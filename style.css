@@ -1,0 +1,23 @@
+.body{
+    background-color: rgb(224, 243, 245);
+    justify-content: center;
+    
+}
+
+.users{
+    color: rgb(16, 55, 154);
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.head{
+    color: rgb(26, 11, 100);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.content{
+    color: rgb(52, 43, 226);
+    font-size: 18px;
+}
